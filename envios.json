@@ -1,0 +1,110 @@
+[
+    {
+        "orden_compra": "2",
+        "servicio_envio": "Zoom",
+        "motorizado": null,
+        "costo": 2.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "4",
+        "servicio_envio": "Zoom",
+        "motorizado": null,
+        "costo": 2.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "3",
+        "servicio_envio": "Zoom",
+        "motorizado": null,
+        "costo": 2.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "3",
+        "servicio_envio": "zoom",
+        "motorizado": null,
+        "costo": 2.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "7",
+        "servicio_envio": "Zoom",
+        "motorizado": null,
+        "costo": 2.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "4",
+        "servicio_envio": "Delivery por moto",
+        "motorizado": {
+            "nombre": "Jesus Gomez",
+            "telefono": "04145689965"
+        },
+        "costo": 1.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "5",
+        "servicio_envio": "Zoom",
+        "motorizado": null,
+        "costo": 2.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "4",
+        "servicio_envio": "Zoom",
+        "motorizado": null,
+        "costo": 1.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "4",
+        "servicio_envio": "zoom",
+        "motorizado": null,
+        "costo": 3.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "6",
+        "servicio_envio": "zoom",
+        "motorizado": null,
+        "costo": 2.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "4",
+        "servicio_envio": "zoom",
+        "motorizado": null,
+        "costo": 2.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "2",
+        "servicio_envio": "zoom",
+        "motorizado": null,
+        "costo": 2.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "6",
+        "servicio_envio": "zoom",
+        "motorizado": null,
+        "costo": 3.99,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "78",
+        "servicio_envio": "zoom",
+        "motorizado": null,
+        "costo": 1.5,
+        "fecha": "2024-11-17"
+    },
+    {
+        "orden_compra": "46",
+        "servicio_envio": "zoom",
+        "motorizado": null,
+        "costo": 2.75,
+        "fecha": "2024-11-17"
+    }
+]

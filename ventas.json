@@ -1,0 +1,74 @@
+[
+    {
+        "cliente": {
+            "razon_social": "Polar",
+            "cedula_rif": "123456789",
+            "tipo": "ClienteJuridico"
+        },
+        "productos": [
+            [
+                "Filtro de aire 5",
+                6
+            ]
+        ],
+        "metodo_pago": "paypal",
+        "tipo_moneda": "divisas",
+        "tipo_credito": "contado",
+        "fecha": "2024-11-17",
+        "totales": {
+            "subtotal": 32.49,
+            "descuentos": 1.7100000000000002,
+            "iva": 5.1984,
+            "igtf": 0.9747,
+            "total": 38.6631
+        }
+    },
+    {
+        "cliente": {
+            "nombre": "Cesar",
+            "cedula_rif": "31423389",
+            "tipo": "Cliente"
+        },
+        "productos": [
+            [
+                "Rodamiento de rueda 17",
+                2
+            ]
+        ],
+        "metodo_pago": "zelle",
+        "tipo_moneda": "divisas",
+        "tipo_credito": "contado",
+        "fecha": "2024-11-17",
+        "totales": {
+            "subtotal": 182.54,
+            "descuentos": 0,
+            "iva": 29.2064,
+            "igtf": 5.4761999999999995,
+            "total": 217.2226
+        }
+    },
+    {
+        "cliente": {
+            "nombre": "Cesar",
+            "cedula_rif": "31423389",
+            "tipo": "Cliente"
+        },
+        "productos": [
+            [
+                "Aceite de motor diesel 27",
+                6
+            ]
+        ],
+        "metodo_pago": "punto de venta",
+        "tipo_moneda": "bolivares",
+        "tipo_credito": "contado",
+        "fecha": "2024-11-17",
+        "totales": {
+            "subtotal": 689.16,
+            "descuentos": 0,
+            "iva": 110.26559999999999,
+            "igtf": 0,
+            "total": 799.4255999999999
+        }
+    }
+]

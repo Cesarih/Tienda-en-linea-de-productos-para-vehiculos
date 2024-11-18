@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Cesar",
+        "apellido": "Ilja",
+        "cedula_rif": "31423389",
+        "correo_electronico": "cilja@correo.unimet.edu.ve",
+        "direccion_envio": "UNIMET",
+        "telefono": "04143107778"
+    },
+    {
+        "nombre": "",
+        "apellido": "",
+        "cedula_rif": "123456789",
+        "correo_electronico": "polar@empresa.com",
+        "direccion_envio": "Caracas",
+        "telefono": "02129760823",
+        "razon_social": "Polar",
+        "nombre_contacto": "Pedro Perez",
+        "telefono_contacto": "04142634587",
+        "correo_contacto": "pedro.perez@gmail.com"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Rodriguez",
+        "cedula_rif": "12345678",
+        "correo_electronico": "juanrodriguez@gmail.com",
+        "direccion_envio": "Baruta",
+        "telefono": "04142634689"
+    }
+]
